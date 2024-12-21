@@ -22,7 +22,7 @@
 _"Code. Debug. Sleep? Repeat."_ 🐱‍💻  
 
 ## 🤝 Let's Connect!
-- 📧 [Email me]([mailto:vjcodes274@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=varunraj9790@gmail.com))  
+- 📧 [Email me](https://mail.google.com/mail/?view=cm&fs=1&to=varunraj9790@gmail.com)  
 - 🌐 [Portfolio](#) *(coming soon-ish... like my next deadline)*  
 
 ---

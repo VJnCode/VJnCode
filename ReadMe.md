@@ -1,49 +1,150 @@
-# 💻 Hey there! I'm Varun Raj 👋
+<div align="center">
 
-> 🌱 "Be the stupidest learner, but the smartest action-taker." 🌟
+# Hey, I'm Varun Raj 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+%26+Microservices;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Kubernetes+%C2%B7+AWS;Building+AI-powered+apps+with+RAG+%26+LangChain;Open+to+work+%E2%80%94+Immediate+joiner+%F0%9F%9A%80)](https://portfolio-vj3610s-projects.vercel.app/)
+
+![Open to work](https://img.shields.io/badge/Open%20to%20work-Immediate%20joiner-22c55e?style=for-the-badge)
+![Roles](https://img.shields.io/badge/Roles-SDE%20%7C%20Backend%20%7C%20DevOps%20%7C%20Full--stack-0ea5e9?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Mangalore%2C%20India-f59e0b?style=for-the-badge)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vj3610s-projects.vercel.app/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-vj3610s-projects.vercel.app/Varun_Raj_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-raj-10b8b5248)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjcodes247@gmail.com)
+
+</div>
+
+---
 
 ## 🚀 About Me
-- 🎓 A student, forever curious and caffeine-fueled ☕.
-- 🛠️ Web developer navigating the seas of React, Next.js, and MERN stack magic.  
-- 🔥 Passionate about building things that make life a little easier, and sometimes a little weirder.
 
-## 🔧 Tech I Work With
-- **Frontend:** `React` | `Next.js` | `TailwindCSS`  
-- **Backend:** `Node.js` | `Express.js`  
-- **Databases:** `MongoDB` | `Firebase`  
-- **Other Goodies:** `Git` | `REST APIs` | `Vite`  
+I build **REST APIs, microservice backends and AI-powered web apps**, and I like owning a feature from the database all the way to the cloud deployment.
 
-## 🌈 Fun Facts
-- 🐌 I debug slower than a snail, but hey, bugs fear me.  
-- 🖌️ Occasionally pretend to be a UI/UX designer when no one is looking.  
-- 🍕 Powered by pizza, memes, and random coding marathons.  
+- 💼 **Associate Software Developer** at **Sclera VDMS** (Aug–Nov 2026). I started there as a **Java Spring Boot intern** (Feb–Aug 2026).
+- 🏗️ My work there covered API gateways, Keycloak/OAuth2 security, **Kubernetes on Amazon EKS**, Consul, Dapr, Redis and AWS.
+- 🤖 I've shipped 4 full-stack products on my own with **FastAPI, Spring Boot, React, RAG and Docker**.
+- 🎓 B.E. in Computer Science & Business Systems at Canara Engineering College, **CGPA 8.35**.
+- 🎯 I'm looking for **SDE, Backend, DevOps or Full-stack** roles and can join immediately.
 
-## 🛠️ My Motto  
-_"Code. Debug. Sleep? Repeat."_ 🐱‍💻  
-
-## 🤝 Let's Connect!
-- 📧 [Email me](https://mail.google.com/mail/?view=cm&fs=1&to=vjcodes247@gmail.com)  
-- 🌐 [Portfolio](https://portfolio-vj3610s-projects.vercel.app/)  
+> 🌱 *"Be the stupidest learner, but the smartest action-taker."*
 
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/varun_raj._.vj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-raj-10b8b5248) 
+## 💼 Experience
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VJnCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VJnCode&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VJnCode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Associate Software Developer, Sclera VDMS** · *Aug 2026 – Nov 2026*
+- Built API Gateway / **Backend-for-Frontend** features: request routing, rate limiting, custom filters, header sanitization and global exception handling (**Spring Boot, FastAPI**).
+- Worked on security and identity: **Keycloak (OAuth2 / OpenID Connect)**, **OpenFGA** relationship-based authorization, RBAC, token/session management and audited impersonation.
+- Ran services on **Kubernetes (Amazon EKS, KinD)** with **Consul** service discovery, **Dapr** and the **Saga pattern** for distributed transactions, and **Redis** for caching and shared sessions.
+- Used **AWS** (IAM, RDS, pre-signed S3 uploads tested with 2 GB+ files) and handled **CI/CD** pipelines and production deployments.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VJnCode&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**Java Spring Boot Intern, Sclera VDMS** · *Feb 2026 – Aug 2026*
+- Shipped **10+ production REST APIs** with Spring Boot and MySQL. All of them passed QA with **zero critical defects**.
+- Set up a 20+ case **Postman** test collection and a PR workflow with mandatory code review for a 5-person squad.
 
 ---
+
+## 🛠️ Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| 🌾 **[CHATUR](https://huggingface.co/spaces/NAVARASA/chathur_api/tree/main)** | Multilingual AI assistant for rural India. Supports **3 regional languages** with 2–5s responses and was a **Top 12 / 200+** finalist at the Emerge Startup Festival. | FastAPI · LangChain · RAG · Pinecone · Docker |
+| 🍳 **[OpenJar](https://github.com/VJnCode/OpenJar)** | Recipe platform built as **4 independent microservices** with stateless JWT auth. One `docker-compose up` cut local setup from **30 min to 2 min**. | Spring Boot · Spring Security · JWT · MySQL · Docker Compose |
+| 👁️ **[Retinal Disease Classifier](https://github.com/VJnCode/Eye-Disease-Detection)** | Fine-tuned ResNet-18 that detects 4 retinal conditions with **~80% accuracy**. Serves real-time predictions and auto-deploys on every push. | PyTorch · FastAPI · React · Vercel · HF Spaces |
+| 💊 **[MedEtherial](https://github.com/VJnCode/MedEtherial)** | Medical appointment platform with patient/doctor roles and a cron service that sends pill reminders. | MongoDB · Express · React · Node.js |
+
+👉 **More on my [portfolio](https://portfolio-vj3610s-projects.vercel.app/).**
+
+---
+
+## 🧰 Tech Stack
+
+**Languages**<br/>
+![Java](https://img.shields.io/badge/Java%2017+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+
+**Backend & Microservices**<br/>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=openapiinitiative&logoColor=white)
+![Dapr](https://img.shields.io/badge/Dapr-0D2192?style=flat-square&logo=dapr&logoColor=white)
+![Consul](https://img.shields.io/badge/Consul-F24C53?style=flat-square&logo=consul&logoColor=white)
+
+**Security & Identity**<br/>
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2%20%2F%20OIDC-EB5424?style=flat-square&logo=auth0&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OpenFGA](https://img.shields.io/badge/OpenFGA-1E1E1E?style=flat-square)
+
+**DevOps & Cloud**<br/>
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Amazon EKS](https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**Databases & Caching**<br/>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+
+**AI / ML**<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8B5CF6?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Frontend**<br/>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Testing**<br/>
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Emerge Startup Festival:** Top 12 out of 200+ teams, pitching CHATUR (2024)
+- 🧠 **Intel AI Workshop:** selected as one of the Top 10 out of 200+ applicants
+- 🎤 **Aetherian 26:** main coordinator of a 24-hour inter-college hackathon
+- 📈 **College Fest Portal:** a Next.js portal that grew event sign-ups by **40%**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VJnCode&theme=tokyonight&hide_border=true&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VJnCode&theme=tokyonight&hide_border=true&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VJnCode&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🍕 Off the Clock
+
+- 🖌️ I occasionally pretend to be a UI/UX designer when no one's looking. Case in point: my anime-themed portfolio has a rubber-arm katana cursor.
+- ☕ Powered by coffee, pizza and late-night `kubectl logs`.
+- 🔁 *Code. Debug. Deploy. Repeat.*
+
+<div align="center">
+
+**Hiring? Let's talk.** [Portfolio](https://portfolio-vj3610s-projects.vercel.app/) · [LinkedIn](https://linkedin.com/in/varun-raj-10b8b5248) · [Email](mailto:vjcodes247@gmail.com)
+
 [![](https://visitcount.itsvg.in/api?id=VJnCode&icon=10&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>

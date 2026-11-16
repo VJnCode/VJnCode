@@ -23,7 +23,7 @@ _"Code. Debug. Sleep? Repeat."_ 🐱‍💻
 
 ## 🤝 Let's Connect!
 - 📧 [Email me](https://mail.google.com/mail/?view=cm&fs=1&to=vjcodes247@gmail.com)  
-- 🌐 [Portfolio](#) *(coming soon-ish... like my next deadline)*  
+- 🌐 [Portfolio](https://portfolio-vj3610s-projects.vercel.app/)  
 
 ---
 

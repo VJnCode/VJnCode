@@ -4,11 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%7C+Backend+%26+Microservices;Spring+Boot+%C2%B7+FastAPI+%C2%B7+Kubernetes+%C2%B7+AWS;Building+AI-powered+apps+with+RAG+%26+LangChain;Open+to+work+%E2%80%94+Immediate+joiner+%F0%9F%9A%80)](https://portfolio-vj3610s-projects.vercel.app/)
 
+[![🚀 Explore My Interactive Portfolio](https://img.shields.io/badge/%F0%9F%9A%80%20Explore%20My%20Interactive%20Portfolio-portfolio--vj3610s--projects.vercel.app-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vj3610s-projects.vercel.app/)
+
 ![Open to work](https://img.shields.io/badge/Open%20to%20work-Immediate%20joiner-22c55e?style=for-the-badge)
 ![Roles](https://img.shields.io/badge/Roles-SDE%20%7C%20Backend%20%7C%20DevOps%20%7C%20Full--stack-0ea5e9?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Location-Mangalore%2C%20India-f59e0b?style=for-the-badge)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-vj3610s-projects.vercel.app/)
 [![Resume](https://img.shields.io/badge/Resume-PDF-ef4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://portfolio-vj3610s-projects.vercel.app/Varun_Raj_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/varun-raj-10b8b5248)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vjcodes247@gmail.com)
@@ -27,6 +28,8 @@ I build **REST APIs, microservice backends and AI-powered web apps**, and I like
 - 🎓 B.E. in Computer Science & Business Systems at Canara Engineering College, **CGPA 8.35**.
 - 🎯 I'm looking for **SDE, Backend, DevOps or Full-stack** roles and can join immediately.
 
+> 🌐 **Live Portfolio:** Check out my anime-themed developer portfolio at **[portfolio-vj3610s-projects.vercel.app](https://portfolio-vj3610s-projects.vercel.app/)** for live demos, architecture breakdowns, and an interactive rubber-arm katana cursor.
+>
 > 🌱 *"Be the stupidest learner, but the smartest action-taker."*
 
 ---
@@ -54,7 +57,7 @@ I build **REST APIs, microservice backends and AI-powered web apps**, and I like
 | 👁️ **[Retinal Disease Classifier](https://github.com/VJnCode/Eye-Disease-Detection)** | Fine-tuned ResNet-18 that detects 4 retinal conditions with **~80% accuracy**. Serves real-time predictions and auto-deploys on every push. | PyTorch · FastAPI · React · Vercel · HF Spaces |
 | 💊 **[MedEtherial](https://github.com/VJnCode/MedEtherial)** | Medical appointment platform with patient/doctor roles and a cron service that sends pill reminders. | MongoDB · Express · React · Node.js |
 
-👉 **More on my [portfolio](https://portfolio-vj3610s-projects.vercel.app/).**
+👉 **Explore all projects and live demos on my [Portfolio](https://portfolio-vj3610s-projects.vercel.app/).**
 
 ---
 
